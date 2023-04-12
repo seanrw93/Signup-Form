@@ -1,4 +1,4 @@
-# Sign-Up form project
+# Sign-Up Form Project
 
 This [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) assignment features a responsively designed sign-up form that utlisises form validation techniques to display error messages when the input criteria is not respected.
 
