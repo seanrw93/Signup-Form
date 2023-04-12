@@ -5,11 +5,11 @@ This [The Odin Project](https://www.theodinproject.com/lessons/node-path-interme
 ## Features
 
 The form is validated only when: 
-*The first name and last name inputs are filled
-*The email address is valid (regex used)
-*The phone number contains at least 6 digits (regex used)
-*The password contains at least one capital letter, one number and one special character, and is between 8 and 20 characters long (regex used)
-*The password confirmation matches the password (regex used)
+* The first name and last name inputs are filled
+* The email address is valid (regex used)
+* The phone number contains at least 6 digits (regex used)
+* The password contains at least one capital letter, one number and one special character, and is between 8 and 20 characters long (regex used)
+* The password confirmation matches the password (regex used)
 
 ## Link
 
