@@ -267,8 +267,14 @@ to {
 
 @media only screen and (max-width: 499px) {
 
+    html, body {
+        max-width: 100vw;
+        overflow-x: hidden;
+        min-width: 380px;
+    }
+    
     .main-container {
-        width: 100vw
+        width: 100%
     }
 
     .side-hero {
@@ -289,7 +295,7 @@ to {
     }
 
     .form-hero {
-    width: 100vw;
+        width: 100%
     }
 
     .form-row input {
@@ -357,6 +363,10 @@ to {
     .side-hero {
         width: 100%;
         height: 60vh;
+    }
+
+    .side-hero div:first-child {
+        position: unset;
     }
 
     .side-hero div:last-child {
